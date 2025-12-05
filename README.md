@@ -12,3 +12,6 @@ DISK Serials
 download the Folder 
 give the Bat admin Perms 
 reinstall and ur good 
+Make sure the exe and the sys are in the same Folder
+
+Dc Edinaz
